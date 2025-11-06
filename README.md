@@ -1,4 +1,8 @@
-# My 7 Data Projects Portfolio
+# 📊 Data Analytics Portfolio — Pooja Khatri
+
+Welcome to my data analytics portfolio!  
+Here, I’ve compiled all my end-to-end data projects showcasing skills in data cleaning, visualization, insights generation, and predictive modeling.  
+I’ve used tools like *Python, Power BI, Excel, and SQL* to turn raw data into meaningful stories and business solutions.# My 7 Data Projects Portfolio
 
 This repository contains links to all my completed data analysis projects — covering domains like stock trends, vehicle sales, finance, and more — all in one place.
 
